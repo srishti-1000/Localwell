@@ -1,6 +1,4 @@
-import AccountManagerPage from './pages/AccountManagerPage';
-
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import Layout from './Layout';
 import Home from './Pages/Home';
 import About from './Pages/About';

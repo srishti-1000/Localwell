@@ -3,8 +3,6 @@ import profilePic from "../assets/ProfilePic.svg"
 
 const AccountManager = () => {
   return (
-
-
     <div className="font-poppins mt-[-1rem]">
 
   <div className="p-6">
@@ -23,7 +21,6 @@ const AccountManager = () => {
           <p className="text-[#000000] text-sm mt-3">Can speak: English and Hindi.</p>
           <p className="text-[#000000] text-sm">Available: 9:30 am to 7:30 pm (Mon-Sat)</p>
           <ContactOptions />
-        
       </div>
     </div>
 

@@ -1,5 +1,4 @@
 
-import React from "react";
 import Sidebar from "../components/Sidebar";
 import AccountManager from "../components/AccountManager";
 
